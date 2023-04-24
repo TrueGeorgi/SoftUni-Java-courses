@@ -1,2 +1,3 @@
 # SoftUni-Java-courses
-Exercises from the courses of SoftUni
+
+In the different folders there are some of the exercises I do during my courses in the Software universtiy. 
