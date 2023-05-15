@@ -29,43 +29,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.A8_BrowserHistoryUpdate">
-    <configuration name="A4_MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A4_MatchingBrackets" />
+}</component>
+  <component name="RunManager" selected="Application.AE10_Robotics">
+    <configuration name="AE06_RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE06_RecursiveFibonacci" />
       <module name="Stacks and Queues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A5_PrinterQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A5_PrinterQueue" />
+    <configuration name="AE07_SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE07_SimpleTextEditor" />
       <module name="Stacks and Queues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A6_HotPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A6_HotPotato" />
+    <configuration name="AE08_InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE08_InfixToPostfix" />
       <module name="Stacks and Queues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A7_MathPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A7_MathPotato" />
+    <configuration name="AE09_PoisonousPlants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE09_PoisonousPlants" />
       <module name="Stacks and Queues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A8_BrowserHistoryUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A8_BrowserHistoryUpdate" />
+    <configuration name="AE10_Robotics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE10_Robotics" />
       <module name="Stacks and Queues" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A8_BrowserHistoryUpdate" />
-        <item itemvalue="Application.A7_MathPotato" />
-        <item itemvalue="Application.A6_HotPotato" />
-        <item itemvalue="Application.A5_PrinterQueue" />
-        <item itemvalue="Application.A4_MatchingBrackets" />
+        <item itemvalue="Application.AE10_Robotics" />
+        <item itemvalue="Application.AE09_PoisonousPlants" />
+        <item itemvalue="Application.AE08_InfixToPostfix" />
+        <item itemvalue="Application.AE07_SimpleTextEditor" />
+        <item itemvalue="Application.AE06_RecursiveFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +104,26 @@
           <url>file://$PROJECT_DIR$/src/A7_MathPotato.java</url>
           <line>20</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE03_MaximumElement.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE05_BalancedParentheses.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE08_InfixToPostfix.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE09_PoisonousPlants.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
