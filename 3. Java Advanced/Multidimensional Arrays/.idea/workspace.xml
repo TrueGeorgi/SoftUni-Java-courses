@@ -33,40 +33,40 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/Softuni/02.True.Georgi - for certificates/2. Fundamentals with Java - January 2023/18.Exercise - Lists/Exercise-Lists"
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Multidimensional Arrays"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.A08_WrongMeasurements">
-    <configuration name="A04_SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A04_SumMatrixElements" />
+  <component name="RunManager" selected="Application.AE05_MatrixShuffling">
+    <configuration name="AE01_FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE01_FillTheMatrix" />
       <module name="Multidimensional Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A05_MaximumSumOf2x2Submatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A05_MaximumSumOf2x2Submatrix" />
+    <configuration name="AE02_MatrixOfPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE02_MatrixOfPalindromes" />
       <module name="Multidimensional Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A06_PrintDiagonalsOfSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A06_PrintDiagonalsOfSquareMatrix" />
+    <configuration name="AE03_DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE03_DiagonalDifference" />
       <module name="Multidimensional Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A07_FindTheRealQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A07_FindTheRealQueen" />
+    <configuration name="AE04_MaximalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE04_MaximalSum" />
       <module name="Multidimensional Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A08_WrongMeasurements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A08_WrongMeasurements" />
+    <configuration name="AE05_MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE05_MatrixShuffling" />
       <module name="Multidimensional Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A08_WrongMeasurements" />
-        <item itemvalue="Application.A07_FindTheRealQueen" />
-        <item itemvalue="Application.A06_PrintDiagonalsOfSquareMatrix" />
-        <item itemvalue="Application.A05_MaximumSumOf2x2Submatrix" />
-        <item itemvalue="Application.A04_SumMatrixElements" />
+        <item itemvalue="Application.AE05_MatrixShuffling" />
+        <item itemvalue="Application.AE04_MaximalSum" />
+        <item itemvalue="Application.AE03_DiagonalDifference" />
+        <item itemvalue="Application.AE02_MatrixOfPalindromes" />
+        <item itemvalue="Application.AE01_FillTheMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +115,16 @@
           <url>file://$PROJECT_DIR$/src/A08_WrongMeasurements.java</url>
           <line>21</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A01_07_FindTheRealQueen.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE01_FillTheMatrix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,7 +5,6 @@ public class A01_CompareMatrices {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         int[] inputOne = Arrays.stream(scanner.nextLine().split("\\s+"))
                 .mapToInt(Integer::parseInt)
                 .toArray();
