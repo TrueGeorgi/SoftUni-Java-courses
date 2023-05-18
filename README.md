@@ -6,7 +6,7 @@ All the Exercises and Homeworks from my studies in the Software university - Sof
 
 The folders are numbered by the ordered in wich I am taking the courses, starting with 1.Programming Basics and getting to the current ones - 3.Java Advanced and 4. HTML and CSS.
 
-In every folder there is a PDF containing all the task conditions followed by the solutions.
+In every folder there is a PDF containing all the task conditions followed by the solutions. The difficulty of the tasks increase with every exercise.
  * A - Exercises from the lesson
  * AE - A bit harder tasks.
-The difficulty of the tasks increase with every exercise.
+
