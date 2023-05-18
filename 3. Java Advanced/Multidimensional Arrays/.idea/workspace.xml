@@ -33,24 +33,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Multidimensional Arrays"
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Stacks and Queues/Stacks and Queues - May"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AE05_MatrixShuffling">
-    <configuration name="AE01_FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE01_FillTheMatrix" />
-      <module name="Multidimensional Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AE02_MatrixOfPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE02_MatrixOfPalindromes" />
-      <module name="Multidimensional Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.AE07_Crossfire">
     <configuration name="AE03_DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AE03_DiagonalDifference" />
       <module name="Multidimensional Arrays" />
@@ -72,13 +58,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AE06_StringMatrixRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE06_StringMatrixRotation" />
+      <module name="Multidimensional Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AE07_Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE07_Crossfire" />
+      <module name="Multidimensional Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AE07_Crossfire" />
+        <item itemvalue="Application.AE06_StringMatrixRotation" />
         <item itemvalue="Application.AE05_MatrixShuffling" />
         <item itemvalue="Application.AE04_MaximalSum" />
         <item itemvalue="Application.AE03_DiagonalDifference" />
-        <item itemvalue="Application.AE02_MatrixOfPalindromes" />
-        <item itemvalue="Application.AE01_FillTheMatrix" />
       </list>
     </recent_temporary>
   </component>

@@ -32,40 +32,41 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Sets and Maps Advanced"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.A09_Largest3Numbers">
-    <configuration name="A05_AverageStudentsGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A05_AverageStudentsGrades" />
+  <component name="RunManager" selected="Application.A01_09_Largest3Numbers">
+    <configuration name="A01_05_AverageStudentGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_05_AverageStudentGrade" />
       <module name="Sets and Maps Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A06_ProductShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A06_ProductShop" />
+    <configuration name="A01_06_ProductShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_06_ProductShop" />
       <module name="Sets and Maps Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A07_CitiesByContinentAndCountry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A07_CitiesByContinentAndCountry" />
+    <configuration name="A01_07_CitiesByContinentAndCountry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_07_CitiesByContinentAndCountry" />
       <module name="Sets and Maps Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A08_AcademyGraduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A08_AcademyGraduation" />
+    <configuration name="A01_08_AcademyGraduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_08_AcademyGraduation" />
       <module name="Sets and Maps Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A09_Largest3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A09_Largest3Numbers" />
+    <configuration name="A01_09_Largest3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_09_Largest3Numbers" />
       <module name="Sets and Maps Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A09_Largest3Numbers" />
-        <item itemvalue="Application.A08_AcademyGraduation" />
-        <item itemvalue="Application.A07_CitiesByContinentAndCountry" />
-        <item itemvalue="Application.A06_ProductShop" />
-        <item itemvalue="Application.A05_AverageStudentsGrades" />
+        <item itemvalue="Application.A01_09_Largest3Numbers" />
+        <item itemvalue="Application.A01_08_AcademyGraduation" />
+        <item itemvalue="Application.A01_07_CitiesByContinentAndCountry" />
+        <item itemvalue="Application.A01_06_ProductShop" />
+        <item itemvalue="Application.A01_05_AverageStudentGrade" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +100,11 @@
           <url>file://$PROJECT_DIR$/src/A03_Voina_NumberGame.java</url>
           <line>14</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A01_02_SoftUniParty.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
