@@ -1,4 +1,4 @@
-body {
+body{
     margin: 0px;
     padding: 0px;
     background-color: #CCCCCC;
@@ -9,13 +9,13 @@ section {
 }
 
 h1 {
-    text-size-adjust: 28px;
+    font-size: 28px;
 }
 
-header > p {
+.articleParagraph {
     font-style: italic;
 }
 
-article > p {
-    text-size-adjust: 24px;
+.outsideParagraph {
+    font-size: 24px;
 }
