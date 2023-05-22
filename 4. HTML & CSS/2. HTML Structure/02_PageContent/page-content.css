@@ -12,10 +12,10 @@ h1 {
     font-size: 28px;
 }
 
-.articleParagraph {
+article > p {
     font-style: italic;
 }
 
-.outsideParagraph {
+section > p {
     font-size: 24px;
 }
