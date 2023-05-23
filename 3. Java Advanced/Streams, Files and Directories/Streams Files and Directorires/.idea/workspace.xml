@@ -33,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Streams, Files and Directories/Streams Files and Directorires/Resources",
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Streams, Files and Directories/Streams Files and Directorires/Resources/Files-and-Streams",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -43,6 +43,56 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\3. Java Advanced\Streams, Files and Directories\Streams Files and Directorires\Resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\3. Java Advanced\Streams, Files and Directories\Streams Files and Directorires\Files-and-Streams" />
+      <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\3. Java Advanced\Streams, Files and Directories\Streams Files and Directorires\Resources\Files-and-Streams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.A08_NestedFolders">
+    <configuration name="A01_ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_ReadFile" />
+      <module name="Streams Files and Directorires" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A02_WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A02_WriteToFile" />
+      <module name="Streams Files and Directorires" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A06_SortLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A06_SortLines" />
+      <module name="Streams Files and Directorires" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A07_ListFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A07_ListFiles" />
+      <module name="Streams Files and Directorires" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A08_NestedFolders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A08_NestedFolders" />
+      <module name="Streams Files and Directorires" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A08_NestedFolders" />
+        <item itemvalue="Application.A07_ListFiles" />
+        <item itemvalue="Application.A02_WriteToFile" />
+        <item itemvalue="Application.A01_ReadFile" />
+        <item itemvalue="Application.A06_SortLines" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,5 +104,16 @@
       <updated>1680792487619</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A03_CopyBytes.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
