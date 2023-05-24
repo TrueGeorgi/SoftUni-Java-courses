@@ -33,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Streams, Files and Directories/Streams Files and Directorires/Resources/Files-and-Streams",
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Streams, Files and Directories/Streams Files and Directorires",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -48,37 +48,37 @@
       <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\3. Java Advanced\Streams, Files and Directories\Streams Files and Directorires\Resources\Files-and-Streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A08_NestedFolders">
-    <configuration name="A01_ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01_ReadFile" />
+  <component name="RunManager" selected="Application.AE08_GetFolderSize">
+    <configuration name="AE04_CountCharacterTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE04_CountCharacterTypes" />
       <module name="Streams Files and Directorires" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A02_WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A02_WriteToFile" />
+    <configuration name="AE05_LineNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE05_LineNumbers" />
       <module name="Streams Files and Directorires" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A06_SortLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A06_SortLines" />
+    <configuration name="AE06_WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE06_WordCount" />
       <module name="Streams Files and Directorires" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A07_ListFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A07_ListFiles" />
+    <configuration name="AE07_MergeTwoFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE07_MergeTwoFiles" />
       <module name="Streams Files and Directorires" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A08_NestedFolders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A08_NestedFolders" />
+    <configuration name="AE08_GetFolderSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE08_GetFolderSize" />
       <module name="Streams Files and Directorires" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A08_NestedFolders" />
-        <item itemvalue="Application.A07_ListFiles" />
-        <item itemvalue="Application.A02_WriteToFile" />
-        <item itemvalue="Application.A01_ReadFile" />
-        <item itemvalue="Application.A06_SortLines" />
+        <item itemvalue="Application.AE08_GetFolderSize" />
+        <item itemvalue="Application.AE07_MergeTwoFiles" />
+        <item itemvalue="Application.AE06_WordCount" />
+        <item itemvalue="Application.AE05_LineNumbers" />
+        <item itemvalue="Application.AE04_CountCharacterTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +112,26 @@
           <url>file://$PROJECT_DIR$/src/A03_CopyBytes.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A08_NestedFolders.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE02_SumBytes.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE06_WordCount.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE08_GetFolderSize.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
