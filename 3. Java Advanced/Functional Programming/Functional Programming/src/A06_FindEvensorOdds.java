@@ -7,28 +7,32 @@ public class A06_FindEvensorOdds {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String input = scanner.nextLine();
-        int lower = Integer.parseInt(input.split(" ")[0]);
-        int higher = Integer.parseInt(input.split(" ")[1]);
-        String action = scanner.nextLine();
+       int[] bonds = Arrays.stream(scanner.nextLine().split("\\s+"))
+               .mapToInt(Integer::parseInt)
+               .toArray();
 
-        int[] number = IntStream.rangeClosed(lower, higher)
-                .toArray();
+       int lowerBound = bonds[0];
+       int upperBound = bonds[1];
 
-        Predicate<Integer> isOdd = x -> x % 2 != 0;
-        Predicate<Integer> isEven = x -> x % 2 == 0;
+       String oddOrEven = scanner.nextLine();
 
-        switch (action) {
-            case "odd":
-                Arrays.stream(number).
-                        filter(isOdd::test)
-                        .forEach(w -> System.out.print(w + " "));
-                break;
-            case "even":
-                Arrays.stream(number).
-                        filter(isEven::test)
-                        .forEach(w -> System.out.print(w + " "));
-                break;
+       Predicate<Integer> isOdd = n -> n % 2 != 0;
+       Predicate<Integer> isEven = n -> n % 2 == 0;
+
+       switch (oddOrEven) {
+           case "odd":
+               print(isOdd, lowerBound, upperBound);
+               break;
+           case "even":
+               print(isEven, lowerBound, upperBound);
+               break;
+       }
+    }
+    public static void print (Predicate<Integer> condition, int lowerLimit, int upperLimit) {
+        for (int i = lowerLimit; i <= upperLimit; i++) {
+            if (condition.test(i)) {
+                System.out.print(i + " ");
+            }
         }
     }
 }

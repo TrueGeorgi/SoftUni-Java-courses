@@ -32,33 +32,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Functional Programming/Functional Programming"
   }
 }]]></component>
   <component name="RunManager" selected="Application.A06_FindEvensorOdds">
-    <configuration name="A01_SortEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01_SortEvenNumbers" />
+    <configuration name="A01_02_SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_02_SumNumbers" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A02_SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A02_SumNumbers" />
+    <configuration name="A01_03_CountUppercaseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_03_CountUppercaseWords" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A03_CountUppercaseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A03_CountUppercaseWords" />
+    <configuration name="A01_04_AddVat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A01_04_AddVat" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A04_AddVAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A04_AddVAT" />
+    <configuration name="A05_FilterByAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A05_FilterByAge" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,10 +75,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.A06_FindEvensorOdds" />
-        <item itemvalue="Application.A04_AddVAT" />
-        <item itemvalue="Application.A03_CountUppercaseWords" />
-        <item itemvalue="Application.A02_SumNumbers" />
-        <item itemvalue="Application.A01_SortEvenNumbers" />
+        <item itemvalue="Application.A05_FilterByAge" />
+        <item itemvalue="Application.A01_04_AddVat" />
+        <item itemvalue="Application.A01_03_CountUppercaseWords" />
+        <item itemvalue="Application.A01_02_SumNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -91,5 +92,16 @@
       <updated>1681206032171</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A05_FilterByAge.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
