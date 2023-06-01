@@ -36,37 +36,37 @@
     "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Functional Programming/Functional Programming"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.A06_FindEvensorOdds">
-    <configuration name="A01_02_SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01_02_SumNumbers" />
+  <component name="RunManager" selected="Application.AE10_PredicateParty">
+    <configuration name="AE06_PredicateForNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE06_PredicateForNames" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A01_03_CountUppercaseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01_03_CountUppercaseWords" />
+    <configuration name="AE07_FindTheSmallestElement_Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE07_FindTheSmallestElement_Solution1" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A01_04_AddVat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01_04_AddVat" />
+    <configuration name="AE08_CustomComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE08_CustomComparator" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A05_FilterByAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A05_FilterByAge" />
+    <configuration name="AE09_ListOfPredicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE09_ListOfPredicates" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A06_FindEvensorOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A06_FindEvensorOdds" />
+    <configuration name="AE10_PredicateParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE10_PredicateParty" />
       <module name="Functional Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A06_FindEvensorOdds" />
-        <item itemvalue="Application.A05_FilterByAge" />
-        <item itemvalue="Application.A01_04_AddVat" />
-        <item itemvalue="Application.A01_03_CountUppercaseWords" />
-        <item itemvalue="Application.A01_02_SumNumbers" />
+        <item itemvalue="Application.AE10_PredicateParty" />
+        <item itemvalue="Application.AE09_ListOfPredicates" />
+        <item itemvalue="Application.AE08_CustomComparator" />
+        <item itemvalue="Application.AE07_FindTheSmallestElement_Solution1" />
+        <item itemvalue="Application.AE06_PredicateForNames" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +100,16 @@
           <url>file://$PROJECT_DIR$/src/A05_FilterByAge.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE05_ReverseAndExclude.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE06_PredicateForNames.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
