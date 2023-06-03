@@ -33,23 +33,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Defining Classes/Defining Classes"
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/3. Java Advanced/Workshop/Workshop"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AE.FirstTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE.FirstTask.Main" />
-      <module name="Defining Classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AE.FirstTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.AE.SeventhTask.Main">
     <configuration name="AE.FourthTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AE.FourthTask.Main" />
       <module name="Defining Classes" />
@@ -63,12 +50,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AE.SecondTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE.SecondTask.Main" />
+    <configuration name="AE.SeventhTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE.SeventhTask.Main" />
       <module name="Defining Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AE.SecondTask.*" />
+          <option name="PATTERN" value="AE.SeventhTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AE.SixthTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE.SixthTask.Main" />
+      <module name="Defining Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AE.SixthTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AE.SeventhTask.Main" />
+        <item itemvalue="Application.AE.SixthTask.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AE.FourthTask.Main" />
         <item itemvalue="Application.AE.ThirdTask.Main" />
-        <item itemvalue="Application.AE.SecondTask.Main" />
-        <item itemvalue="Application.AE.FirstTask.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,17 @@
           <line>30</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AE/SixthTask/Main.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="AE.SixthTask.Trainer" memberName="numberOfBadges" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
