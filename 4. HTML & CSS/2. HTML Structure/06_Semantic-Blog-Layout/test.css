@@ -1,3 +1,33 @@
+
+body, * {
+    box-sizing: border-box;
+}
 div p {
     background-color: pink;
 }
+
+div {
+    background-color: aquamarine;
+    display: flex;
+}
+@media (max-width: 650px) {
+    div {
+        background-color: rgb(255, 127, 249);
+    }
+
+    div {
+        /* flex-direction: row-reverse; */
+    }
+}
+
+.container_wrapper {
+    width: 500px;
+    margin: auto;
+}
+
+
+
+
+
+
+
