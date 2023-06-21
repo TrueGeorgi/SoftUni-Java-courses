@@ -34,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/5. Java OOP/Working with Abstraction/src/A03_StudentSystem"
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/5. Java OOP/Working with Abstraction"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -42,27 +42,7 @@
       <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\5. Java OOP\Working with Abstraction\src\A03_StudentSystem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A04_HotelReservation.Main">
-    <configuration name="A01_RhombusOfStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A01_RhombusOfStars" />
-      <module name="Working with Abstraction" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A03_StudentSystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A03_StudentSystem.Main" />
-      <module name="Working with Abstraction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A03_StudentSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TrafficLightsMain">
     <configuration name="A04_HotelReservation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A04_HotelReservation.Main" />
       <module name="Working with Abstraction" />
@@ -76,12 +56,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A02_PointInRectangle.Main" />
+    <configuration name="CardRankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE02_CardRank.CardRankMain" />
       <module name="Working with Abstraction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A02_PointInRectangle.*" />
+          <option name="PATTERN" value="AE02_CardRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardSuitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE01_CardSuit.CardSuitMain" />
+      <module name="Working with Abstraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AE01_CardSuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsWithPowerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE03_CardsWithPower.CardsWithPowerMain" />
+      <module name="Working with Abstraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AE03_CardsWithPower.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficLightsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE04_TrafficLights.TrafficLightsMain" />
+      <module name="Working with Abstraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AE04_TrafficLights.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrafficLightsMain" />
+        <item itemvalue="Application.CardsWithPowerMain" />
+        <item itemvalue="Application.CardRankMain" />
+        <item itemvalue="Application.CardSuitMain" />
         <item itemvalue="Application.A04_HotelReservation.Main" />
-        <item itemvalue="Application.A03_StudentSystem.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A01_RhombusOfStars" />
       </list>
     </recent_temporary>
   </component>
