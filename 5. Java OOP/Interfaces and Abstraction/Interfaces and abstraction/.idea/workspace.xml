@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -34,42 +34,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/5. Java OOP/Interfaces and Abstraction/Interfaces and abstraction/src/A04_SayHelloExtended"
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/5. Java OOP/Interfaces and Abstraction/Interfaces and abstraction/src/AE03_BirthdayCelebrations"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\5. Java OOP\Interfaces and Abstraction\Interfaces and abstraction\src\AE03_BirthdayCelebrations" />
+      <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\5. Java OOP\Interfaces and Abstraction\Interfaces and abstraction\src\MultipleImplementation" />
       <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\5. Java OOP\Interfaces and Abstraction\Interfaces and abstraction\src\A04_SayHelloExtended" />
       <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\5. Java OOP\Interfaces and Abstraction\Interfaces and abstraction\src\A02_CarShopExtended" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A06_Ferrari.Main">
-    <configuration name="A02_CarShopExtended.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A02_CarShopExtended.Main" />
-      <module name="Interfaces and abstraction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A02_CarShopExtended.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A03_SayHello.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A03_SayHello.Main" />
-      <module name="Interfaces and abstraction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A03_SayHello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.AE02_MultipleImplementation.Main">
     <configuration name="A04_SayHelloExtended.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A04_SayHelloExtended.Main" />
       <module name="Interfaces and abstraction" />
@@ -109,13 +85,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AE02_MultipleImplementation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE02_MultipleImplementation.Main" />
+      <module name="Interfaces and abstraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AE02_MultipleImplementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AE01_DefineAnInterfacePerson.Main" />
+      <module name="Interfaces and abstraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AE01_DefineAnInterfacePerson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AE02_MultipleImplementation.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.A06_Ferrari.Main" />
         <item itemvalue="Application.A05_BorderControl.Main" />
         <item itemvalue="Application.A04_SayHelloExtended.Main" />
-        <item itemvalue="Application.A03_SayHello.Main" />
-        <item itemvalue="Application.A02_CarShopExtended.Main" />
       </list>
     </recent_temporary>
   </component>
