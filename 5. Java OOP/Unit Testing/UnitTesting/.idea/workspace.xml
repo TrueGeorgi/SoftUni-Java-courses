@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -29,35 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/5. Java OOP/Unit Testing/UnitTesting/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/georg/Desktop/Programing/GitHub/SoftUni-Java-courses/5. Java OOP/Unit Testing/UnitTesting/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\georg\Desktop\Programing\GitHub\SoftUni-Java-courses\5. Java OOP\Unit Testing\UnitTesting\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DummyTest.aliveDummyDoesNotGivesExp">
-    <configuration name="AxeTest.brokenWeaponCannotAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rpg_lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rpg_lab" />
-      <option name="MAIN_CLASS_NAME" value="rpg_lab.AxeTest" />
-      <option name="METHOD_NAME" value="brokenWeaponCannotAttack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.HeroTest.attackGainsExperienceIfTargetIsDead">
     <configuration name="DummyTest.aliveDummyDoesNotGivesExp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting" />
       <extension name="coverage">
@@ -122,13 +107,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HeroTest.attackGainsExperienceIfTargetIsDead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.HeroTest" />
+      <option name="METHOD_NAME" value="attackGainsExperienceIfTargetIsDead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HeroTest.attackGainsExperienceIfTargetIsDead" />
         <item itemvalue="JUnit.DummyTest.aliveDummyDoesNotGivesExp" />
         <item itemvalue="JUnit.DummyTest.deadDummyGivesExp" />
         <item itemvalue="JUnit.DummyTest.cannotAttackDeadDummy" />
         <item itemvalue="JUnit.DummyTest.dummyLosesHealthWhenAttacked" />
-        <item itemvalue="JUnit.AxeTest.brokenWeaponCannotAttack" />
       </list>
     </recent_temporary>
   </component>
