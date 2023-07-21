@@ -1,12 +1,12 @@
 function factorialDividedByTwo(number1, number2) {
   function returnFactorial(number, startNumber, result) {
     if (startNumber === number) {
-        result *= startNumber;
-        return result;
+      result *= startNumber;
+      return result;
     } else {
-        result *= startNumber;
-        startNumber += 1;
-     return returnFactorial(number, startNumber, result);
+      result *= startNumber;
+      startNumber += 1;
+      return returnFactorial(number, startNumber, result);
     }
   }
   let firstFactorial = returnFactorial(number1, 1, 1);
