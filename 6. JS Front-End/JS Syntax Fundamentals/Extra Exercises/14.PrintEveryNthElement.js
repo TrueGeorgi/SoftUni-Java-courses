@@ -9,5 +9,3 @@ function print(array, number) {
 
   return output.join("\n");
 }
-
-console.log(print(["5", "20", "31", "4", "20"], 2));
