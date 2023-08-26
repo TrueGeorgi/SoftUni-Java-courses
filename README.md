@@ -8,5 +8,6 @@ As you delve into these folders, you'll encounter exercises thoughtfully categor
 
 * "A" denotes exercises that correlate with the lesson content.
 * "AE" represents slightly more intricate exercises.
+
 These exercises reflect an incremental increase in complexity, facilitating a well-rounded learning experience.
 
