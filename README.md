@@ -1,12 +1,12 @@
 # SoftUni-Java-courses
 
-In the various folders are some of the exercises I do during my courses at Software University.
+Contained within a series of categorized folders are exercises integral to my coursework at Software University. These folders encompass a comprehensive collection of exercises and assignments, underscoring my educational journey at the esteemed Software University in Sofia.
 
-All the Exercises and Homeworks from my studies in the Software university - Sofia, so far.
+Each folder has been meticulously numbered to align with the progression of the courses I am undertaking. This academic journey commences with the foundational course, "1. Programming Basics."
 
-The folders are numbered by the ordered in wich I am taking the courses, starting with 1.Programming Basics and getting to the current ones - 3.Java Advanced and 4. HTML and CSS.
+As you delve into these folders, you'll encounter exercises thoughtfully categorized as:
 
-In every folder there is a PDF containing all the task conditions followed by the solutions. The difficulty of the tasks increases with every exercise.
- * A - Exercises from the lesson
- * AE - A bit harder tasks.
+"A" denotes exercises that correlate with the lesson content.
+"AE" represents slightly more intricate exercises.
+These exercises reflect an incremental increase in complexity, facilitating a well-rounded learning experience.
 
