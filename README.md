@@ -6,7 +6,7 @@ Each folder has been meticulously numbered to align with the progression of the 
 
 As you delve into these folders, you'll encounter exercises thoughtfully categorized as:
 
-"A" denotes exercises that correlate with the lesson content.
-"AE" represents slightly more intricate exercises.
+* "A" denotes exercises that correlate with the lesson content.
+* "AE" represents slightly more intricate exercises.
 These exercises reflect an incremental increase in complexity, facilitating a well-rounded learning experience.
 
